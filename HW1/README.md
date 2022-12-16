@@ -4,4 +4,11 @@
 
 *Продажа туров клиентам*
 
+Бизнес задача вести учет всех туров и дальнейшая продажа их клиентам.
+У каждого тура есть своя цена в валюте.
+
+
 <image src="https://github.com/SDaniyar/DB/blob/main/HW1/img1.PNG" alt="Схема">
+
+[Ссылка на схему](https://app.sqldbm.com/PostgreSQL/Edit/p243861)
+
