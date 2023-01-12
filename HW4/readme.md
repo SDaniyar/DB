@@ -16,9 +16,9 @@ GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO "developer1";
 
 Выдаем права входа
 
-alter role developer1 login;
+alter role developer1 login
 
-<image src="https://github.com/SDaniyar/DB/blob/main/HW4/Roles.PNG alt="Схема">
+<image src="https://github.com/SDaniyar/DB/blob/main/HW4/Roles.PNG" alt="роль">
 
 Создаем новую схему private - create schema private;
 
