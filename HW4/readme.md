@@ -10,11 +10,11 @@
 
 create role developer1;
 
-Выдаем права на сврю схему 
+Выдаем права на свою схему 
 
 GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public TO "developer1";
 
-даем права входа
+Выдаем права входа
 
 alter role developer1 login;
 
