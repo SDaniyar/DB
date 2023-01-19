@@ -6,7 +6,7 @@
 
 
 Выберем все данные которые начинается со слова "ТОО"
-Используем вырадение Like для поиска
+Используем выражение Like для поиска
 
 <image src="https://github.com/SDaniyar/DB/blob/main/HW5/SL1.PNG" alt="Выборка">
 
@@ -14,6 +14,11 @@
 
 <image src="https://github.com/SDaniyar/DB/blob/main/HW5/SL2.PNG" alt="Выборка">
 
-Изменим порядок соединений таблиц. Как мы видим после выполнения, inner выполнилось раньше  join и теперь резултат другой 
+Изменим порядок соединений таблиц. Как мы видим после выполнения, inner выполнилось раньше  join и теперь результат другой 
 
 <image src="https://github.com/SDaniyar/DB/blob/main/HW5/SL3.PNG" alt="Выборка">
+
+
+Добавим новые компании с выводом информации
+
+<image src="https://github.com/SDaniyar/DB/blob/main/HW5/INS1.PNG" alt="Выборка">
