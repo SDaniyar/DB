@@ -22,3 +22,9 @@
 Добавим новые компании с выводом информации
 
 <image src="https://github.com/SDaniyar/DB/blob/main/HW5/INS1.PNG" alt="Выборка">
+
+
+Обновим данные используя UPDATE FROM.
+
+<image src="https://github.com/SDaniyar/DB/blob/main/HW5/UPD1.PNG" alt="Выборка">
+
