@@ -28,3 +28,6 @@
 
 <image src="https://github.com/SDaniyar/DB/blob/main/HW5/UPD1.PNG" alt="Выборка">
 
+Удлаим данные с оператором DELETE с помощью using.
+
+<image src="https://github.com/SDaniyar/DB/blob/main/HW5/DEL1.PNG" alt="Выборка">
