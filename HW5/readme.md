@@ -14,7 +14,7 @@
 
 <image src="https://github.com/SDaniyar/DB/blob/main/HW5/SL2.PNG" alt="Выборка">
 
-Изменим порядок соединений таблиц. Как мы видим после выполнения, inner выполнилось раньше  join и теперь результат другой 
+Изменим порядок соединений таблиц. 
 
 <image src="https://github.com/SDaniyar/DB/blob/main/HW5/SL3.PNG" alt="Выборка">
 
